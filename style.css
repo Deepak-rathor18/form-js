@@ -1,0 +1,19 @@
+.form{
+    font-size: x-large;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    /* margin-top: 10%; */
+    gap: 20px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    /* border: 2px solid red; */
+    height: 40px;
+    width: 100px;
+    margin-left: 48%;
+    text-align: center;
+    border-radius: 20px;
+}
