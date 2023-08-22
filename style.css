@@ -6,7 +6,7 @@
     /* margin-top: 10%; */
     gap: 20px;
 }
-.button{
+.btn{
     display: flex;
     justify-content: center;
     margin-top: 5%;
